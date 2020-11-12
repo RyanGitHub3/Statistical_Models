@@ -2,7 +2,7 @@
 This repository contains a variety of statistical modeling projects that leverage a host of machine learning methods in order to derive meaningful results from topics ranging from politics to finance. 
 
 <p align="center">
-  <img src="/images/Stats_Cover.png">
+  <img src="/images/Stat_Cover.png">
 </p>
 
 ## Table of Contents
