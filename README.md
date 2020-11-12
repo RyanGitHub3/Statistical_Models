@@ -1,16 +1,13 @@
-Multiple Linear Regression Model used to accurately assess a stock's price. There is a built in GUI as well, to allow easy user access to the model.
-
-
 # Statistical Models
 This repository contains a variety of statistical modeling projects that leverage a host of machine learning methods in order to derive meaningful results from topics ranging from politics to finance. 
 
 <p align="center">
-  <img src="/images/Numerical_Analysis.png">
+  <img src="/images/Stats_Cover.png">
 </p>
 
 ## Table of Contents
 
 1. **Asset Pricing Model**
-- The aim of this project is to determine the integral of a continuous function given only discrete data with noise that is collected at N different steps along the function's interval. A Gaussian Process is used to fit a curve as well as a confidence interval to the data produced from the noisy function, and then the Trapezoidal Rule is used to take the integral of this newly created function, since the curve fitted by the Gaussian Process is discrete. 
+- The aim of this project is to construct a model that would be able to take a given set of inputs (these being financial metrics) and then output the predicted price of the asset the metrics belong to. In order to do this, I used a multiple linear regression model where each variable was a different financial metric, and the response variable was the price of the underlying asset. In order to properly train and test the model as well as select which features went into its final result, a host of machine learning fundamentals were used such as Lasso Regression, Covariance Matrices, Learning Curves, and others. 
 2. **Predicting the Results of the 2020 Presidential Election**
-- There are two projects contained in this folder. The first aims to explore the various numerical differentiation methods that one can use in order to solve the heat equation, and compares the stability of each method. The second project implements the Peaceman Rachford ADI method from scratch on the heat equation, graphs the results in three dimensions, and performs a Resolution Study in order to check for bugs and verify the accuracy of the method.
+- The aim of this project was very simple, it was to predict the winner of the 2020 presidential election. In order to accomplish this, I chose a Gaussian Process as the model due to its ability to adapt more naturally to the polling data, without having to make strong underlying assumptions about the relationship between time and presidential popularity. The Gaussian Process also has confidence intervals built into it, so this allows for a nice way of seeing the possibility of an upset election should the intervals overlap.
