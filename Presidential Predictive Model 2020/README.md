@@ -1,7 +1,7 @@
 # Presidential Predictive Model 2020
 
 <p align="center">
-  <img src="/images/President_Cover.png">
+  <img src="/images/Presidential_Cover.png">
 </p>
 
 ## Summary
