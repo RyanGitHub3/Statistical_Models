@@ -16,4 +16,4 @@
   - Optimizing the hyperparameters of the Gaussian Process
   - Graphing the final plot/prediction of who will win the 2020 Presidential Nomination
   using two distinct Gaussian Processes for both Trump and Biden
-- The .ipynb file is done in Jupyter Notebook so it was easy to comment in cells between lines of code, as well as write up my thought process as I went along, so the code file itself will serve as a much better guide to the project than the bullet points that summarize it here
+- The .ipynb file is done in Jupyter Notebook so it was easy to comment in cells between lines of code, as well as write up my thought process as I went along, so the code file itself will serve as a much better guide to the project than the bullet points that summarize it here. So click the link to the code and enjoy.
