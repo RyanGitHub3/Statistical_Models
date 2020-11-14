@@ -6,7 +6,7 @@
 
 ## Summary
  
-1. **Predicting the Results of the 2020 Presidential Election**
+**Predicting the Results of the 2020 Presidential Election**
 - The aim of this project was very simple, it was to predict the winner of the 2020 presidential election. In order to accomplish this, I chose a Gaussian Process as the model due to its ability to adapt more naturally to the polling data, without having to make strong underlying assumptions about the relationship between time and presidential popularity. The Gaussian Process also has confidence intervals built into it, so this allows for a nice way of seeing the possibility of an upset election should the intervals overlap.
 - The layout of the project is as follows.
   - Reading in the data
