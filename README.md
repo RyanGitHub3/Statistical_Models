@@ -13,7 +13,7 @@ This repository contains a variety of statistical modeling projects that leverag
 2. **Stock Price Valuation Model**
 - The aim of this project is to construct a model that would be able to take a given set of inputs (these being financial metrics) and then output the predicted price of the asset the metrics belong to. In order to do this, I used a multiple linear regression model where each variable was a different financial metric, and the response variable was the price of the underlying asset. In order to properly train and test the model as well as select which features went into its final result, a host of machine learning fundamentals were used such as Lasso Regression, Covariance Matrices, Learning Curves, and others.
 
-3. **Diabetes Classificatoin Model**
+3. **Diabetes Classification Model**
 - The aim of this project is to construct three different classification models (KNN, Decision Tree, Random Forest) and compare the accuracy and speed of each. The dataset used here can be found on the UCI Machine Learning Repository, and it consists of the answers to various yes/no questions that are meant to help the doctor determine whether or not a given patient has diabetes, as well as whether in fact the patient has diabetes or not. So the aim of the project is classifying patients as diabetic based on their answers to certain question. The tail end of the project also looks at Grid Search CV and compares its accuracy and speed to Bayesian Optimization when both are used on the computationally expensive Random Forest method. 
 
 4. **Logistic Regression Survival Model**
