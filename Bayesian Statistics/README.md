@@ -1,6 +1,6 @@
 # Bayesian Linear Regression
 <p align="center">
-  <img src="/images/Bayesian_Linear_Regression_Image.png">
+  <img src="/images/Bayesian_Linear_Regression.png">
 </p>
 
 ## Summary
