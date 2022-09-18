@@ -1,1 +1,15 @@
+# Bayesian Linear Regression
+<p align="center">
+  <img src="/images/Bayesian_Regression_Image.png">
+</p>
 
+## Summary
+ 
+**Building Bayesian Linear Regresssion From Scratch**
+- The aim of this project was to better understand Bayesian Linear Regression by building it from scratch, and comparing how it works to that of Ordinary Linear Regression.
+- The layout of the project is as follows.
+  - Generating some random data from a line
+  - Fitting an Oridnary Linear Regression to it
+  - 
+  - 
+- The .ipynb file is done in Jupyter Notebook so it was easy to comment in cells between lines of code, as well as write up my thought process as I went along, so the code file itself will serve as a much better guide to the project than the bullet points that summarize it here. So click the link to the code and enjoy.
